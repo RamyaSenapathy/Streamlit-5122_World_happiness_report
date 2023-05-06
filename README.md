@@ -6,6 +6,8 @@
 * Tab1: WORLD HAPPINESS TREND
   * For nine years in a row, Finland has been ranked No. 1 as the happiest 
   * Afganistan as the least happy country in the world.
+  * There is a filter to add/edit years, the trend line and the ranking changes accordingly
+  * The filter is defaulted to all years, must be unchecked to add/edit years
 
 * Tab2: CORRELATION 
   * We have compared 6 factors of happiness, using pearson coefficient
@@ -15,6 +17,8 @@
 * Tab3: NORDIC REGION ANALYSIS
   * As a region with high levels of societal trust, that goes some way to explaining why all the Nordic countries held on to high positions despite the impact of the Covid-19 pandemic (year: 2019-2021). 
   * But other things must explain the consistently high rankings of the Nordic countries over so many years. 
+  * There is a filter to add/edit countries, the trend line and the ranking changes accordingly
+  * The filter is defaulted to all 5 nordic countries
 
 ----
 ## DATA PREPARATION
