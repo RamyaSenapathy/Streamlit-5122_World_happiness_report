@@ -1,15 +1,15 @@
 # Streamlit-5122_World_happiness_report
 ## WORLD HAPPINESS REPORT - STREAMLIT DASHBOARD
-* Tab1:
+* Tab1: WORLD HAPPINESS TREND
   * For nine years in a row, Finland has been ranked No. 1 as the happiest 
   * Afganistan as the least happy country in the world.
 
-* Tab2 
+* Tab2: CORRELATION 
   * We have compared 6 factors of happiness, using pearson coefficient
   * Social support has the highest correlation, that explains that people are happy with high social support, high freedom to make life choices and high GDP.
   * Corruption has the negative correlation
 
-* under tab3
+* Tab3: NORDIC REGION ANALYSIS
 
 ----
 ## DATA PREPARATION
