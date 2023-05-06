@@ -44,9 +44,9 @@ year_list=year_values.copy().to_list()
 ##sidebar with year      #o/p: year (default 2022)
 all = st.sidebar.checkbox("Select all", value=True)
 if all:
-    Year_select = st.sidebar.multiselect("Un-check select All to add year:",   year_list, year_list,disabled=True)
+    Year_select = st.sidebar.multiselect("Un-check select-all to add year:",   year_list, year_list,disabled=True)
 else:
-    Year_select =  st.sidebar.multiselect("Un-check select All to add year:", year_list, default = 2022)
+    Year_select =  st.sidebar.multiselect("Un-check select-all to add year:", year_list, default = 2022)
 
 #passing year_select
 df_year = df[(df.year).isin(Year_select)] #o/p : entire df since no group by used
@@ -113,7 +113,7 @@ with tab2:
             corr_fig + text
 
 with tab3:    
-        options = st.radio("Select", ('All','One/more countries'),horizontal=True,label_visibility="collapsed")
+        options = st.radio("Select", ('All','One/all 5 nordic countries'),horizontal=True,label_visibility="collapsed")
         if options == 'All':
             country_select = st.multiselect("Selected countries",country3, country3,label_visibility="collapsed",disabled=True)
         else:
