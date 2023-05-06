@@ -7,16 +7,7 @@
   * _Year 2008- 2021  : Data for Table 2.1_
 * I have merged the data from both the excel sheets and also have added regional information based on countries.
 * The final csv file has the following information.
-    * Country_name	
-    * Region	
-    * year	
-   * 1. Happiness_score	
-   * 2. GDP_per_capita	
-   * 3. Social_support	
-   * 4. Life_expectancy	
-   * 5. Freedom	
-   * 6. Generosity	Corruption
-
+    * Country_name|Region|year|Happiness_score|GDP_per_capita|Social_support|Life_expectancy|Freedom|Generosity|Corruption
 
 ----
 
