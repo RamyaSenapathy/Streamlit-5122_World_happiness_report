@@ -113,7 +113,7 @@ with tab2:
             corr_fig + text
 
 with tab3:    
-        options = st.radio("Select", ('All','One/all 5 nordic countries'),horizontal=True,label_visibility="collapsed")
+        options = st.radio("Select", ('All','One/all nordic countries'),horizontal=True,label_visibility="collapsed")
         if options == 'All':
             country_select = st.multiselect("Selected countries",country3, country3,label_visibility="collapsed",disabled=True)
         else:
