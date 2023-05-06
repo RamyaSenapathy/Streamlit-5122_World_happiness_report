@@ -1,5 +1,6 @@
 # Streamlit-5122_World_happiness_report
-
+## OBJECTIVE
+* The objective of the report is to visualize happiness trends across countries.
 
 ## WORLD HAPPINESS REPORT - STREAMLIT DASHBOARD
 [STREAMLIT APP](https://ramyasenapathy-streamlit-5122-wor-world-happiness-report-mv4ees.streamlit.app/)
