@@ -1,4 +1,9 @@
 # Streamlit-5122_World_happiness_report
+## 
+* The World Happiness Report is a publication that contains articles and rankings of national happiness, based on respondent ratings of their own lives.
+* which the report also correlates with various (quality of) life factors.
+
+
 ## WORLD HAPPINESS REPORT - STREAMLIT DASHBOARD
 [STREAMLIT APP](https://ramyasenapathy-streamlit-5122-wor-world-happiness-report-mv4ees.streamlit.app/)
 
