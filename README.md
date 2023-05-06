@@ -1,5 +1,7 @@
 # Streamlit-5122_World_happiness_report
 ## WORLD HAPPINESS REPORT - STREAMLIT DASHBOARD
+https://ramyasenapathy-streamlit-5122-wor-world-happiness-report-mv4ees.streamlit.app/
+
 * Tab1: WORLD HAPPINESS TREND
   * For nine years in a row, Finland has been ranked No. 1 as the happiest 
   * Afganistan as the least happy country in the world.
@@ -27,7 +29,7 @@ Country_name | Region | year | Happiness_score | GDP_per_capita | Social_support
 ----
 ## PYTHON FILE
 world_Happiness_report.py
-[Github](https://github.com/RamyaSenapathy/Streamlit-5122_World_happiness_report/blob/main/world_Happiness_report.py)
+[Github link for python file](https://github.com/RamyaSenapathy/Streamlit-5122_World_happiness_report/blob/main/world_Happiness_report.py)
 
 
 
