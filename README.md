@@ -23,7 +23,7 @@
 ----
 ## DATA PREPARATION
 * The data is available in the form of excel sheets for year 2008-2021 and year 2022. <br />
-[link for data]( https://worldhappiness.report/ed/2022/#appendices-and-data)
+[link for data]( https://worldhappiness.report/ed/2022/#appendices-and-data)<br />
 Under Appendices & Data :
   * _Year 2022 data  : Data for Figure 2.1_
   * _Year 2008- 2021  : Data for Table 2.1_
