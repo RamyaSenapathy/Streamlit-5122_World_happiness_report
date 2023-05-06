@@ -1,10 +1,9 @@
 # Streamlit-5122_World_happiness_report
 ## WORLD HAPPINESS REPORT - STREAMLIT DASHBOARD
-* under tab1:
+* Tab1:
   * For nine years in a row, Finland has been ranked No. 1 as the happiest 
   * Afganistan as the least happy country in the world.
 
-The least happy people are mostly from Sub-Saharan Africa and South Asia and they have the world's lowest GDP.
 * under tab2 : This has the correlation of 6 factors with happiness score.
   * We have compared 6 factors of happiness, using pearson coefficient
   * Corruption has the negative correlation
