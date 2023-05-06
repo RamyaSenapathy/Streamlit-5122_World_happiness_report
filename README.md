@@ -10,6 +10,8 @@
   * Corruption has the negative correlation
 
 * Tab3: NORDIC REGION ANALYSIS
+  * As a region with high levels of societal trust, that goes some way to explaining why all the Nordic countries held on to high positions despite the impact of the Covid-19 pandemic (YEAR 2019-2021). 
+  * But other things must explain the consistently high rankings of the Nordic countries over so many years. 
 
 ----
 ## DATA PREPARATION
