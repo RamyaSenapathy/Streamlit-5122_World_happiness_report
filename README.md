@@ -8,9 +8,9 @@
   * _Year 2008- 2021  : Data for Table 2.1_
 * Data available years : 2008 - 2022, there are some missing data for some years, so mostly used data from 2011-2022
 * I have merged the data from both the excel sheets and also have added regional information based on countries.
- * Country_name	
- * Region	
- * year	
+    * Country_name	
+    * Region	
+    * year	
    * 1. Happiness_score	
    * 2. GDP_per_capita	
    * 3. Social_support	
