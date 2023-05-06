@@ -6,7 +6,7 @@
 * Tab1: WORLD HAPPINESS TREND and RANKING
   * For nine years in a row, Finland has been ranked No. 1 as the happiest 
   * Afganistan as the least happy country in the world.
-  * There is a filter to add/edit years, the trend line and the ranking changes accordingly
+  * Filter : to add/edit years, the trend line and the ranking changes accordingly
   * The filter is defaulted to all years, must be unchecked to add/edit years
 
 * Tab2: CORRELATION 
