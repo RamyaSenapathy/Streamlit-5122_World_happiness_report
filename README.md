@@ -4,10 +4,11 @@
   * For nine years in a row, Finland has been ranked No. 1 as the happiest 
   * Afganistan as the least happy country in the world.
 
-* under tab2 : This has the correlation of 6 factors with happiness score.
+* Tab2 
   * We have compared 6 factors of happiness, using pearson coefficient
-  * Corruption has the negative correlation
   * Social support has the highest correlation, that explains that people are happy with high social support, high freedom to make life choices and high GDP.
+  * Corruption has the negative correlation
+
 * under tab3
 
 ----
