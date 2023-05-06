@@ -1,6 +1,7 @@
 # Streamlit-5122_World_happiness_report
 ## WORLD HAPPINESS REPORT - STREAMLIT DASHBOARD
-https://ramyasenapathy-streamlit-5122-wor-world-happiness-report-mv4ees.streamlit.app/
+[STREAMLIT APP](https://ramyasenapathy-streamlit-5122-wor-world-happiness-report-mv4ees.streamlit.app/)
+
 
 * Tab1: WORLD HAPPINESS TREND
   * For nine years in a row, Finland has been ranked No. 1 as the happiest 
