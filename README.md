@@ -6,7 +6,7 @@ Under Appendices & Data :
   * _Year 2022 data  : Data for Figure 2.1_
   * _Year 2008- 2021  : Data for Table 2.1_
 * I have merged the data from both the excel sheets and also have added regional information based on countries.
-* The final csv file has the following information: **<br />**[Github]([https://www.github.com](https://github.com/RamyaSenapathy/Streamlit-5122_World_happiness_report/blob/main/world_happiness_data.csv)) "Github home")
+* The final csv file has the following information: **<br />**[Github](https://github.com/RamyaSenapathy/Streamlit-5122_World_happiness_report/blob/main/world_happiness_data.csv)
 
 Country_name | Region | year | Happiness_score | GDP_per_capita | Social_support | Life_expectancy | Freedom | Generosity | Corruption
 
