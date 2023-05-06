@@ -13,7 +13,7 @@ Country_name | Region | year | Happiness_score | GDP_per_capita | Social_support
 ----
 ## PYTHON FILE
 world_Happiness_report.py
-[Github]([https://www.github.com](https://github.com/RamyaSenapathy/Streamlit-5122_World_happiness_report/blob/main/world_Happiness_report.py)
+[Github](https://github.com/RamyaSenapathy/Streamlit-5122_World_happiness_report/blob/main/world_Happiness_report.py)
 
 
 
